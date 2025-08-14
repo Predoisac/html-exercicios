@@ -1,0 +1,26 @@
+@font-face {
+    font-family:'Jaya-Abadi' ;
+    src: url('jayaabadifont-regular-webfont.ttf');
+}
+body {
+    background-color: #FF7770;
+}
+header {
+    background-color: crimson;
+    color: black;
+    text-align: center;
+    padding: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+li {
+    text-align: center;
+    list-style-type: none;
+    font-family:'Jaya-Abadi';
+    font-size: larger;
+    padding-top: 10px;
+}
+button {
+    background-color:red;
+    color: lightblue;
+    padding: 10px;
+}
